@@ -1,0 +1,22 @@
+{
+events:[
+  {
+    "nom": "Doe",
+    "prenom": "John",
+    "mdp": "motdepasse123",
+    "adresse": "123 Rue Principale"
+  },
+  {
+    "nom": "Smith",
+    "prenom": "Jane",
+    "mdp": "secret456",
+    "adresse": "456 Avenue Secondaire"
+  },
+  {
+    "nom": "Brown",
+    "prenom": "Bob",
+    "mdp": "mdp123",
+    "adresse": "789 Boulevard Tertiaire"
+  }
+]
+}
